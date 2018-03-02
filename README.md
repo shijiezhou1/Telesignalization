@@ -18,3 +18,5 @@ In this piece, I want to use the camera as the representation of digital artwork
 I also choose to use the concept of un-prediction in order to show an interesting result when the user standing in front of the project. Typically, users need to input their birthday, ages, and personal information to receive the data analysis. By using the camera, I am taking advantage of the camera detection technique and OpenCV library. As the Artificial intelligence develop, facial recognition is being used in most of the different areas such as cellphone, home security lock, and clock in the system. In the whole project setup, I will demonstrate what is interesting part by revealing the camera science through the use of face detection.
 
 ![alt text](https://static.wixstatic.com/media/a6c808_1b97182f72d9485683f0987f3442654d~mv2_d_4000_2250_s_2.jpg/v1/fill/w_2158,h_1214,al_c,q_90,usm_0.66_1.00_0.01/a6c808_1b97182f72d9485683f0987f3442654d~mv2_d_4000_2250_s_2.webp)
+
+Copyright © 2017-2018 Shijie Zhou
