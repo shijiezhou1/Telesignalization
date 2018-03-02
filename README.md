@@ -9,7 +9,7 @@ The Telesignalization device is made of a Adurino or Makey Makey. The monitor is
 
 It is using the application - Processing.  The opencv library ( OpenCV - API ) and the FaceDetection is sufficient to use for the project. The mainly focus is detecting the eyes and the oval shape of the face. If the face is being tracked， then the live data/chart will displace a result.Without anyone standing in front of the camera, the screen only show blank.
 
-ABOUT WHY: 
+ABOUT WHY:  
 A 21st, century, camera in the public space has become surveillance cameras. The reason I used a camera capture for my project is that I want to show a staining technology image analysis of what is considered "stereotype of arts" forms and impress viewers with the new technology use in modern day. It can incorporate with the computing art. 
 
 In this piece, I want to use the camera as the representation of digital artwork. It expressed a shift from traditional to digital does not mean choosing one or the other, but the ability to incorporate the two into a functioning piece. The piece is to show the evolution of the use of the camera, and also the data analysis based on the intimacy level. Usually, it is commonly represented on stocks, market, or value. 
