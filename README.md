@@ -2,7 +2,7 @@
 Telesignalization, an intimacy predicted machine within both partners, was used to measure the different levels of relationship based on how close people standing next to each other. People rarely pay attention to how far they stand the one next to. The inspiration on telesignalization machine is playing the different role of surveillance camera, which it is an advanced fortune-telling machine. The behavior and motion are exposed under the camera, and turn into a specific data analysis showing on the monitor. The key of the project is not only giving an ironic situation, but also emphasize the significant relationship level in the reality.
 
 Detail:
-https://shz145.wixsite.com/telesignalization
+https://shz145.wixsite.com/telesignalization 
 
 ABOUT HOW:  
 The Telesignalization device is made of a Adurino or Makey Makey. The monitor is installed on the box, and the box is made of black cardboard. The monitor connect to the small desktop/computer, and the camera is set up on the top center. It is a 1440x900 monitor. 
