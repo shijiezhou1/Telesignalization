@@ -1,5 +1,4 @@
 //This class diplay all the red line location
-
 class Ball {
   float x;
   float y;
