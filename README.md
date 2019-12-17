@@ -1,12 +1,10 @@
 # Telesignalization
 Telesignalization, an intimacy predicting machine with both partners, was used to measure the different stages of relationship based on how far they stand from the people next to them. Usually, most of us do not pay attention to the boundary between yourself and others. The inspiration on the telesignalization machine is playing the different role of the surveillance camera, which is the role of an advance fortune-telling machine. Each of us has a different physical reaction and observable emotion associated with individuals, as well as human gender. The box of the display can give such relationship data analysis about that person’s life. With the rise of quantization, this project can emphasize the awareness of body language or spatial awareness in society. 
 
-#### Demo site and Video:
-https://shz145.wixsite.com/telesignalization
+#### [Demo site and Video:](https://shz145.wixsite.com/telesignalization)
 
 #### MacOS, Linux, Windows.x
 ```
-//Download Processing and import project
 https://processing.org/download/
 ```
 
